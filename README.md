@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**lifuyue/lifuyue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Student at [Xiamen University (厦门大学)](https://www.xmu.edu.cn).
+- 🌱 Interested in *web development*, *computer graphics* and *computer networks*.
+- 🚀 Building [Tripy-Web](https://github.com/lifuyue/Tripy-Web) and [Changdang Lake Cultural Communication Platform](https://github.com/lifuyue/Changdang_Lake_Cultural_Communication_Platform).
+- 📫 Email: [l1fuyue@icloud.com](mailto:l1fuyue@icloud.com).
+- 🪺 Twitter: [@L1fuyue](https://twitter.com/L1fuyue).
+- ✨ Blog: [lifuyue.github.io](https://lifuyue.github.io).
 
-Here are some ideas to get you started:
+### About me :octocat:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A student who loves building things for the web.
+
+### Metrics 📈
+
+![Metrics](./github-metrics.svg)
+
+![3D Profile](./profile-3d-contrib/profile-green-animate.svg)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lifuyue&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=lifuyue" alt="GitHub Streak" />
+</p>
