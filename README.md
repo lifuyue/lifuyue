@@ -16,11 +16,3 @@ A student who loves building things for the web.
 ![Metrics](./github-metrics.svg)
 
 ![3D Profile](./profile-3d-contrib/profile-green-animate.svg)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lifuyue&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=lifuyue" alt="GitHub Streak" />
-</p>
