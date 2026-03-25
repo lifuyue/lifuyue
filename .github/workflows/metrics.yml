@@ -21,6 +21,7 @@ jobs:
           repositories_affiliations: owner, collaborator, organization_member
           repositories_skipped: lifuyue/xmu-java-prog, lifuyue/xmu-cn-lab, lifuyue/xmu-cg-lab, Crloxa/Computer-Network-project-1
           commits_authoring: l1fuyue@icloud.com
+          config_display: columns
           config_timezone: Asia/Shanghai
           plugin_languages: yes
           plugin_languages_ignored: html, css
