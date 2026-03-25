@@ -18,6 +18,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
           base: activity, community, repositories
+          repositories_affiliations: owner, collaborator, organization_member
           commits_authoring: l1fuyue@icloud.com
           config_timezone: Asia/Shanghai
           plugin_languages: yes
