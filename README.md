@@ -14,4 +14,6 @@ An AI Native Developer who loves building things for the web. Experienced in col
 
 ![Metrics](./github-metrics.svg)
 
+![OpenClaw Contributors](./metrics.plugin.contributors.contributions.svg)
+
 ![3D Profile](./profile-3d-contrib/profile-green-animate.svg)
