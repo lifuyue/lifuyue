@@ -24,18 +24,22 @@ jobs:
           commits_authoring: l1fuyue@icloud.com
           config_timezone: Asia/Shanghai
 
-      - name: OpenClaw contributors
+      - name: Open source contributions
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.plugin.contributors.contributions.svg
+          filename: metrics.plugin.notable.opensource.svg
           base: ""
-          template: repository
-          user: openclaw
-          repo: openclaw
-          plugin_contributors: yes
-          plugin_contributors_base: b71d8e1c32e3903eed765164287c51cbce446e51
-          plugin_contributors_head: main
-          plugin_contributors_contributions: yes
-          plugin_contributors_ignored: github-actions[bot], dependabot[bot]
+          plugin_notable: yes
+          plugin_notable_from: organization
+          plugin_notable_types: pull_request, issue
+          plugin_notable_repositories: yes
+          plugin_notable_indepth: yes
+          plugin_notable_filter: stars:>50000
+          plugin_notable_skipped: |
+            lifuyue/lifuyue
+            lifuyue/xmu-java-prog
+            lifuyue/xmu-cn-lab
+            lifuyue/xmu-cg-lab
+            Crloxa/Computer-Network-project-1
           config_timezone: Asia/Shanghai
